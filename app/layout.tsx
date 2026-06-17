@@ -3,7 +3,7 @@ import './globals.css';
 import { AppProvider } from '@/lib/store';
 
 export const metadata: Metadata = {
-  title: 'GunPricer — Firearm & Ammo Price Comparison',
+  title: 'Big IRON — Firearm & Ammo Price Comparison',
   description: 'Compare prices across 4,200+ verified firearm dealers. State compliance filtering, local dealer stock, deal alerts, and financing options.',
 };
 

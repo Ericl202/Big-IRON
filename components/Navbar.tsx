@@ -12,7 +12,7 @@ export default function Navbar() {
             <Target className="w-4 h-4 text-white" />
           </div>
           <div>
-            <span className="font-semibold text-zinc-900 text-[15px] tracking-tight">GunPricer</span>
+            <span className="font-semibold text-zinc-900 text-[15px] tracking-tight">Big IRON</span>
             <span className="hidden sm:inline text-zinc-400 text-xs ml-2 uppercase tracking-widest">
               4,200+ verified dealers
             </span>

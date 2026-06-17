@@ -11,7 +11,7 @@ export default function Footer() {
               <div className="w-6 h-6 bg-zinc-900 rounded flex items-center justify-center">
                 <Target className="w-3.5 h-3.5 text-white" />
               </div>
-              <span className="font-semibold text-zinc-900 text-sm">GunPricer</span>
+              <span className="font-semibold text-zinc-900 text-sm">Big IRON</span>
             </div>
             <p className="text-xs text-zinc-400 leading-relaxed">
               The 2A industry&apos;s most compliance-aware firearm price search engine.
@@ -52,7 +52,7 @@ export default function Footer() {
 
         <div className="border-t border-zinc-100 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-zinc-400">
-            © 2026 GunPricer. All rights reserved. Not a licensed dealer. Prices from third-party retailers.
+            © 2026 Big IRON. All rights reserved. Not a licensed dealer. Prices from third-party retailers.
           </p>
           <div className="flex gap-4 text-xs text-zinc-400">
             <a href="#" className="hover:text-zinc-700 transition-colors">Privacy</a>
