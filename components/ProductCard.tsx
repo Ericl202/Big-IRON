@@ -140,7 +140,7 @@ export default function ProductCard({ product }: { product: Product }) {
 
           <div className="px-4 py-4">
             {tab === 'online' && <OnlineListings listings={product.listings} />}
-            {tab === 'local' && <LocalDealers dealers={product.localDealers} />}
+            {tab === 'local' && <LocalDealers />}
             {tab === 'history' && <PriceHistory product={product} />}
             {tab === 'alert' && <AlertTab product={product} />}
           </div>
